@@ -1,0 +1,24 @@
+Total unique words : 337
+
+Top 20 words with highes frequency
+
+a
+of
+the
+Spark
+and
+on
+in
+that
+is
+distributed
+data
+to
+can
+for
+provides
+be
+or
+an
+Apache
+as
